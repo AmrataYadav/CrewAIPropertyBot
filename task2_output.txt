@@ -1,0 +1,34 @@
+1. Sector 54
+   - Location: Well-connected to Delhi airport and key business districts in Gurgaon
+   - Mean Price: INR 1,500,000
+   - Rental Vacancy: 3.8%
+   - Rental Yield: 2.6%
+   - Background Information: Mix of residential and commercial properties with access to schools, hospitals, shopping centers, and entertainment facilities
+
+2. Sector 45
+   - Location: Proximity to good schools and hospitals; easy access to golf course extension road and NH8
+   - Mean Price: INR 1,800,000
+   - Rental Vacancy: 3.2%
+   - Rental Yield: 3.1%
+   - Background Information: Mix of residential and commercial properties
+
+3. Sector 47
+   - Location: One of the most developed sectors in Gurgaon, home to multinational companies and business centers
+   - Mean Price: INR 2,000,000
+   - Rental Vacancy: 3.6%
+   - Rental Yield: 2.9%
+   - Background Information: Mix of high-end residential and commercial properties with easy access to metro stations and key locations
+
+4. Sector 50
+   - Location: Well-connected to Delhi airport and other key business districts in Gurgaon
+   - Mean Price: INR 1,700,000
+   - Rental Vacancy: 4.2%
+   - Rental Yield: 3.2%
+   - Background Information: Mix of residential and commercial properties with good access to schools, hospitals, shopping centers, and entertainment facilities
+
+5. Sector 56
+   - Location: Near Dwarka Expressway; mix of affordable residential properties and commercial establishments
+   - Mean Price: INR 1,300,000
+   - Rental Vacancy: 4.8%
+   - Rental Yield: 2.7%
+   - Background Information: Well-connected to key locations in Gurgaon, including hospitals, schools
